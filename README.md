@@ -1,4 +1,5 @@
-cme_ftp_downloader
-==================
+CME Group FTP File downloader
+=============================
 
-FTP file downloader from the CME Group
+This repository contains an XML settlement file
+downloader for the CME Group's website.  
